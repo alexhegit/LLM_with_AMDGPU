@@ -39,9 +39,6 @@ LLM+ROCm inference checklist(verified with Huggingface)
 - Mistral-7B-v1.0
 - openai/whispe
 
-
-Try whisper
-
 ## AMD iGPU + vulkan
 *to-do*
 
