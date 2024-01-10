@@ -38,6 +38,7 @@ LLM+ROCm inference checklist(verified with Huggingface)
 - microsoft/phi-2 (support flash-attn)
 - Mistral-7B-v1.0
 - openai/whispe
+- llama2-7B-hf
 
 ## AMD iGPU + vulkan
 *to-do*
